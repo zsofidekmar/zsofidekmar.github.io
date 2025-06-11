@@ -4,6 +4,9 @@ body {
 h1{
     color: red;
 }
+.underline{
+    text-decoration: underline;
+}
 .bluetext{
     color:rgb(0, 26, 255);
     font-style: italic;
@@ -11,7 +14,4 @@ h1{
 .violettext{
     color: blueviolet;
     font-weight: bold;
-}
-.underline{
-    text-decoration: underline;
 }
