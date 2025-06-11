@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+}
+h1{
+    color: red;
+}
+.bluetext{
+    color:rgb(0, 26, 255);
+    font-style: italic;
+}
+.violettext{
+    color: blueviolet;
+    font-weight: bold;
+    text-decoration: underline;
+}
